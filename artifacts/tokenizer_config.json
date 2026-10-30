@@ -1,0 +1,10 @@
+{
+    "tokenization_method": "punctuation_aware_word_level",
+    "padding_token": "<PAD>",
+    "padding_token_id": 0,
+    "oov_token": "<OOV>",
+    "oov_token_id": 1,
+    "vocabulary_size": 2054,
+    "actual_vocabulary_size": 2052,
+    "total_tokens": 9882
+}
